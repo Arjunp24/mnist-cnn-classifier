@@ -1,0 +1,10 @@
+# Virtual Environment
+mnist_env/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Dataset and model files
+data/
