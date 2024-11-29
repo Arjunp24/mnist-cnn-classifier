@@ -1,6 +1,6 @@
 # MNIST CNN Classifier
 
-[![Model Tests](https://github.com/arjunp24/mnist-cnn/actions/workflows/model_tests.yml/badge.svg)](https://github.com/arjunp24/mnist-cnn/actions/workflows/model_tests.yml)
+[![Model Tests](https://github.com/arjunp24/mnist-cnn-classifier/actions/workflows/model_tests.yml/badge.svg)](https://github.com/arjunp24/mnist-cnn-classifier/actions/workflows/model_tests.yml)
 
 A PyTorch implementation of a CNN model for MNIST digit classification that achieves >95% accuracy in one epoch with less than 25,000 parameters.
 
